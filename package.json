@@ -1,0 +1,17 @@
+{
+    "name": "gulpSeajs",
+    "description": "a solution for sass+seajs in gulp",
+    "version": "1.0.0",
+    "author": "cmy",
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-compass": "*",
+        "gulp-jshint": "*",
+        "gulp-seajs-transport": "*",
+        "gulp-seajs-concat": "*",
+        "gulp-uglify": "*",
+        "gulp-sequence": "*",
+        "browser-sync": "*"
+    },
+    "dependencies": {}
+}

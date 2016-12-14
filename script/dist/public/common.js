@@ -1,0 +1,1 @@
+define("public/common",[],function(n,o,c){$(window),$(document),$("body")});

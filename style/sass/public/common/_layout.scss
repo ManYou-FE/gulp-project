@@ -1,0 +1,26 @@
+@charset "UTF-8";
+//全局样式(与业务无关)
+html{
+    height: 100%;
+}
+body {
+    height: 100%;
+    font-size: 14px;
+    font-family: "Microsoft Yahei",Arial,Helvetica;
+    background: #fff;
+    color: #333;
+}
+img {
+    vertical-align: middle;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+input, textarea {
+    font-family: "Microsoft Yahei",Arial,Helvetica;
+    outline: none;
+}
+input[type="number"]::-webkit-outer-spin-button,input[type="number"]::-webkit-inner-spin-button{
+  -webkit-appearance: none;
+}
